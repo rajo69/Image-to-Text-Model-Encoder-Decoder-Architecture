@@ -22,6 +22,9 @@ This project implements an **Image-to-Text Model** using an encoder-decoder arch
    - Downsizes the large and sparse feature vectors from the encoder.
    - Uses an RNN to process image features and reference captions for caption generation.
    - Embedding layer converts captions into numerical vectors, learned during training.
+  
+![Architecture](https://github.com/user-attachments/assets/a94393a7-65bd-4168-b158-c6c2184c95a9)
+
 
 ---
 
